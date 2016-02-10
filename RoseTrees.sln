@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RoseTrees", "RoseTrees\RoseTrees.fsproj", "{8E8AB4F3-B417-433F-80CD-EB10053C0A0D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RoseTrees.Tests", "RoseTrees.Tests\RoseTrees.Tests.fsproj", "{7F668E99-3267-46B8-8957-F63A53FBC13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8AB4F3-B417-433F-80CD-EB10053C0A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8AB4F3-B417-433F-80CD-EB10053C0A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8AB4F3-B417-433F-80CD-EB10053C0A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8AB4F3-B417-433F-80CD-EB10053C0A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F668E99-3267-46B8-8957-F63A53FBC13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F668E99-3267-46B8-8957-F63A53FBC13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F668E99-3267-46B8-8957-F63A53FBC13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F668E99-3267-46B8-8957-F63A53FBC13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
